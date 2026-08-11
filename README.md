@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/amanako/amanako?style=plastic)
+
 > All of actively maintained work can be found [here](https://codeberg.org/abyssal-twilight).<br>
 > Github is used mainly when necessary (contributions to popular repositories maintained on Github and similar).
 
