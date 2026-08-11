@@ -1,8 +1,8 @@
 <table align="center">
   <tr>
     <td width="100%" valign="middle" align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Greetings.;Welcome+to+my+profile.;Thanks+for+stopping+by." alt="Typing SVG"></a></td>
-    <td bgcolor="#444444" width="2"></td>
-    <td valign="middle" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nameplate-dark.svg"><img src="assets/nameplate-light.svg" alt="天眼(あまなこ)" width="215"></picture></td>
+    <td bgcolor="#515456" width="2"></td>
+    <td bgcolor="a8a777" valign="middle"><img src="assets/nameplate.svg" alt="天眼(あまなこ)" width="215"></td>
   </tr>
 </table>
 
