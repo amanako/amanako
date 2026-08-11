@@ -1,8 +1,15 @@
 <table align="center">
   <tr>
-    <td width="100%" valign="middle" align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Greetings.;Welcome+to+my+profile.;Thanks+for+stopping+by." alt="Typing SVG"></a></td>
-    <td bgcolor="#515456" width="2"></td>
-    <td bgcolor="a8a777" valign="middle"><img src="assets/nameplate.svg" alt="天眼(あまなこ)" width="215"></td>
+    <td valign="middle" align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Greetings.;Welcome+to+my+profile.;Thanks+for+stopping+by."
+             alt="Typing SVG">
+      </a>
+    </td>
+    <td width="2" bgcolor="#515456"></td>
+    <td valign="middle" align="center" bgcolor="#a8a777">
+        <img src="assets/nameplate.svg" alt="天眼(あまなこ)" width="215">
+    </td>
   </tr>
 </table>
 
