@@ -1,13 +1,12 @@
 <table align="center">
   <tr>
     <td valign="middle" align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Greetings.;Welcome+to+my+profile.;Thanks+for+stopping+by."
-             alt="Typing SVG">
-      </a>
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=25&duration=3500&pause=1000&color=D4BE98&background=32302F00&center=true&vCenter=true&width=435&lines=Greetings.;Welcome+to+my+profile.;Thanks+for+stopping+by."
+                alt="Typing SVG" />
+        </a>
     </td>
-    <td width="2" bgcolor="#515456"></td>
-    <td valign="middle" align="center" bgcolor="#a8a777">
+    <td bgcolor="#b6b789" valign="middle" align="center">
         <img src="assets/nameplate.svg" alt="天眼(あまなこ)" width="215">
     </td>
   </tr>
